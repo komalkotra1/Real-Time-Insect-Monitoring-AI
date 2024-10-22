@@ -16,3 +16,16 @@ The following aima e achieved:
 4.Identifying faslse detections and trouble shooting 
 
 The structure of the repositoy:
+Data structure
+labelling
+Training
+Saving the model
+Tracking over videos, and images
+Trajectory plotting 
+Time spent on the flower
+Environments 
+Test
+
+
+Cloning the repository: 
+\\\bash git clone https://github.com/komalkotra1/Real-Time-Insect-Monitoring-AI.git \\\
