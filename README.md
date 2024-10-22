@@ -9,7 +9,7 @@ If presented by a challenge of quantifying behavior, we will be stuck with an al
 Imagine standing in the middle of a sprawling sunflower field, golden petals stretching as far as the eye can see, under a radiant sky. These fields aren't just a feast for the eyes—they're ecological hotspots. Insect pollinators buzz from flower to flower, performing the critical job of pollination, ensuring the continuity of not just sunflowers, but many other interconnected plants and animals.
 Here, we try to track these pollinators' interaction time and try to olot interaction patterns 
 
-The following aima e achieved:
+The following aima achieved:
 1.Real-Time detection of the insect visiting the sunflower using a machine learning algorithm.
 2.Tracking the trajectoy of the insect
 3.Time spent by the insect on the flower.
@@ -31,4 +31,4 @@ Cloning the repository:
 
 ```bash
 git clone https://github.com/komalkotra1/Real-Time-Insect-Monitoring-AI.git
-
+```
