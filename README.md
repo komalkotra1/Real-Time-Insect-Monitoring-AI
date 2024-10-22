@@ -28,4 +28,4 @@ Test
 
 
 Cloning the repository: 
-\\\bash git clone https://github.com/komalkotra1/Real-Time-Insect-Monitoring-AI.git \\\
+\\\bash git clone https://github.com/komalkotra1/Real-Time-Insect-Monitoring-AI.git \\\\
